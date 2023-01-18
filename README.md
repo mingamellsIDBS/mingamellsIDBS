@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @mingamellsIDBS
-- 🌱 I’m currently learning 
-  -  JavaScript
-  -  HTML5, CSS
-  -  React
+👋 Hi, I’m @mingamellsIDBS
+🌱 I’m currently learning 
+- React
+  - Express
+  - Node
+- JavaScript
+- HTML5, CSS
+
 
 <!---
 mingamellsIDBS/mingamellsIDBS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
