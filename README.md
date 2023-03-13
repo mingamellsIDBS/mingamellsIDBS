@@ -1,6 +1,10 @@
 👋 Hi, I’m @mingamellsIDBS
 
-🌱 I’m currently learning 
+🌱 I’m currently learning:
+- Cyptess
+  - TDD
+  - Component 
+  - E2E
 - React
   - Express
   - Node
